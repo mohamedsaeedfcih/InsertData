@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34031.81
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InsertDataCsv", "InsertDataCsv.csproj", "{FC594B5D-E94B-49E3-BD9E-1A87CF8A21EF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FC594B5D-E94B-49E3-BD9E-1A87CF8A21EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC594B5D-E94B-49E3-BD9E-1A87CF8A21EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC594B5D-E94B-49E3-BD9E-1A87CF8A21EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC594B5D-E94B-49E3-BD9E-1A87CF8A21EF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DC0189FE-B482-4134-869C-802959D4F351}
+	EndGlobalSection
+EndGlobal
